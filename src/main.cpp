@@ -8,8 +8,8 @@
 #include "time.h"           // kellonajan hallinta
 
 // omat verkon salasanat 
-const char* ssid = "top gap";
-const char* password = "lakupekka557";
+const char* ssid = "--------";
+const char* password = "-----------";
 
 //näytön koko ja nollaus , -1 ei erillistä reset pinniä
 Adafruit_SSD1306 display(128, 64, &Wire, -1);
