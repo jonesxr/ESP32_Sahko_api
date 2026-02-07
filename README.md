@@ -41,3 +41,6 @@ Projekti käyttää seuraavia kirjastoja (asentuvat automaattisesti `platformio.
 - Adafruit SSD1306
 - Adafruit GFX Library
 - ArduinoJson
+
+---
+*Disclaimer: Tämä README-tiedosto on generoitu automaattisesti Googlen Antigravity-tekoälyllä.*
